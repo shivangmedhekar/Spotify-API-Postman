@@ -4,8 +4,11 @@ Go to [Spotify Developers](https://developer.spotify.com/) Web Page and click on
 
 Click on **CREATE AN APP**
 Give the app a name and description, Agree to Terms & Conditions and then Click on **Create**.
+
 You will be taken to the Dashboard of the app you just created.
+
 Click on **EDIT SETTINGS**
+
 Scroll to **Redirect URIs** and the the following URI
 ```
 https://oauth.pstmn.io/v1/callback
@@ -14,10 +17,15 @@ https://oauth.pstmn.io/v1/callback
 Then click on **ADD**
 
 Now open Postman, and create a new collection.
+
 Name the collection eg Spotify API
+
 In the Authorization section select Type as **OAuth 2.0**
+
 You will get all options to configure the authorization
+
 Scroll to Callback URL under Configure New Token
+
 Copy & Paste the same URL you did in your Spotify App you created in Redirect URI
 ```
 https://oauth.pstmn.io/v1/callback
@@ -44,6 +52,9 @@ Spotify login page will open, login and authorize permission.
 
 The spotify page will close and you will get the Acess Token, click on **Use Token**.
 
+
 Now under your collections you will see Add a request
+
 Use requests from [Spotify Console](https://developer.spotify.com/console/)
+
 Remeber in Authorization -> Type -> select **Inherit from parent**
