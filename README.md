@@ -64,3 +64,10 @@ Now under your collections you will see **Add a request**. Click on it.
 Use requests from [Spotify Console](https://developer.spotify.com/console/)
 
 Remember to set Authorization Type of your request is **Inherit from parent**
+
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
