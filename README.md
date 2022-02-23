@@ -2,6 +2,9 @@
 
 Go to [Spotify Developers](https://developer.spotify.com/) Web Page and click on **DASHBOARD**.
 
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
 Login with your Spotify Account.
 
 Click on **CREATE AN APP**
