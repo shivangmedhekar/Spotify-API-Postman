@@ -1,4 +1,4 @@
-# Spotify-API-Postman
+# Spotify API Postman
 
 Go to [Spotify Developers](https://developer.spotify.com/) Web Page and click on **Dashboard**, Login with your Spotify Account.
 
