@@ -35,3 +35,15 @@ https://accounts.spotify.com/api/token
 Go to your app Dashboard on Spotify Developer and Copy and Paste Client ID and Client Secret
 
 Go the [Authorization Scopes](https://developer.spotify.com/documentation/general/guides/authorization/scopes/) in Development Guide under Docs of Spotify Developer and copy the scopes you want and paste it under scopes of your collection in Postman. For multiple scopes keep a space between multiple scope names.
+
+```
+playlist-read-private playlist-modify-public user-follow-read user-library-read
+```
+After that click on Get **New Access Token**
+Spotify login page will open, login and authorize permission.
+
+The spotify page will close and you will get the Acess Token, click on **Use Token**.
+
+Now under your collections you will see Add a request
+Use requests from [Spotify Console](https://developer.spotify.com/console/)
+Remeber in Authorization -> Type -> select **Inherit from parent**
