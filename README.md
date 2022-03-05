@@ -1,6 +1,6 @@
 # Spotify API Postman Desktop
 
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://developer.spotify.com/) [<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>](https://www.postman.com/)
 
 Go to [Spotify Developers](https://developer.spotify.com/) Web Page and click on **DASHBOARD**.
 
